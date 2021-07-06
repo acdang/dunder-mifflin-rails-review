@@ -12,3 +12,4 @@ class CreateEmployees < ActiveRecord::Migration[5.1]
     end
   end
 end
+# first_name:string, last_name:string, alias:string, title:string, office:string, dog_id:integer, img_url:string

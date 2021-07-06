@@ -9,3 +9,4 @@ class CreateDogs < ActiveRecord::Migration[5.1]
     end
   end
 end
+# name:string, breed:string, age:integer(?)
